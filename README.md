@@ -21,7 +21,7 @@ Já tive contato com **Python** e **C**, construí páginas com **HTML** e **CSS
 - [x] Python
 - [x] C
 - [x] HTML e CSS
-- [ ] JavaScript (em andamento)
+- [ ] JavaScript (estudando)
 
 ## 🎯 O que busco
 - Evoluir como desenvolvedora e construir projetos reais
